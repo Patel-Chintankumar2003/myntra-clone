@@ -35,6 +35,10 @@ This project is a clone of the popular e-commerce website Myntra. It aims to rep
   ```bash
   npm start
   ```
+5. Start the myntra-react-clone:
+  ```bash
+  npm run dev
+  ```
 
 ## Contributing
 
